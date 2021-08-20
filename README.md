@@ -18,7 +18,7 @@ The project developer used that Techonologies:
 ---
 
 ## 📁 How to download the project 
-´``bash 
+```bash 
     #clone the repository
      $ git clone https://github.com/VidalJunior05/to-do-list-javascrip.git
 
